@@ -6,10 +6,12 @@ Leetcode id : GB2024067188
 |  |
 | ------- |
 | [2679-sum-in-a-matrix](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
 | [2679-sum-in-a-matrix](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -25,9 +27,14 @@ Leetcode id : GB2024067188
 ## Two Pointers
 |  |
 | ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 ## String
 |  |
 | ------- |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
+## Binary Search
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
