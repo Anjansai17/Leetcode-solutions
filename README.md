@@ -32,9 +32,14 @@ Leetcode id : GB2024067188
 ## String
 |  |
 | ------- |
+| [2716-minimize-string-length](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2716-minimize-string-length) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Hash Table
+|  |
+| ------- |
+| [2716-minimize-string-length](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2716-minimize-string-length) |
 <!---LeetCode Topics End-->
