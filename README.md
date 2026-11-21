@@ -33,6 +33,7 @@ Leetcode id : GB2024067188
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0202-happy-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 ## String
@@ -50,12 +51,14 @@ Leetcode id : GB2024067188
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0202-happy-number) |
 | [2325-decode-the-message](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2325-decode-the-message) |
 | [2451-odd-string-difference](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2451-odd-string-difference) |
 | [2716-minimize-string-length](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2716-minimize-string-length) |
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0263-ugly-number) |
 ## Bit Manipulation
@@ -66,4 +69,8 @@ Leetcode id : GB2024067188
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0231-power-of-two) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
