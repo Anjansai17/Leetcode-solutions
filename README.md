@@ -57,6 +57,7 @@ Leetcode id : GB2024067188
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0263-ugly-number) |
 ## Bit Manipulation
 |  |
 | ------- |
