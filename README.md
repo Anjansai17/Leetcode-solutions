@@ -58,12 +58,14 @@ Leetcode id : GB2024067188
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0202-happy-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0263-ugly-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
