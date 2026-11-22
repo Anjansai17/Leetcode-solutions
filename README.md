@@ -62,6 +62,7 @@ Leetcode id : GB2024067188
 | [0202-happy-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0326-power-of-three) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Leetcode id : GB2024067188
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0326-power-of-three) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
