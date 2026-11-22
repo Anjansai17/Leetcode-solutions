@@ -63,16 +63,19 @@ Leetcode id : GB2024067188
 | [0231-power-of-two](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0342-power-of-four) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
