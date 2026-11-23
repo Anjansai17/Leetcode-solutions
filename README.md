@@ -73,6 +73,7 @@ Leetcode id : GB2024067188
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0342-power-of-four) |
@@ -80,4 +81,8 @@ Leetcode id : GB2024067188
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0202-happy-number) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
