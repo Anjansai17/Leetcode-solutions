@@ -40,6 +40,7 @@ Leetcode id : GB2024067188
 ## String
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [2315-count-asterisks](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2325-decode-the-message) |
 | [2451-odd-string-difference](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2451-odd-string-difference) |
@@ -52,6 +53,7 @@ Leetcode id : GB2024067188
 ## Hash Table
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0202-happy-number) |
 | [2325-decode-the-message](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2325-decode-the-message) |
 | [2451-odd-string-difference](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2451-odd-string-difference) |
@@ -60,6 +62,7 @@ Leetcode id : GB2024067188
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0231-power-of-two) |
