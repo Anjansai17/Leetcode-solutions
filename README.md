@@ -5,6 +5,7 @@ Leetcode id : GB2024067188
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0835-image-overlap](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0835-image-overlap) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Anjansai17/Leetcode-solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2451-odd-string-difference](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2451-odd-string-difference) |
@@ -60,6 +61,7 @@ Leetcode id : GB2024067188
 | ------- |
 | [0029-divide-two-integers](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0202-happy-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0326-power-of-three) |
@@ -85,4 +87,24 @@ Leetcode id : GB2024067188
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
