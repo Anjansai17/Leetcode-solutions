@@ -5,6 +5,7 @@ Leetcode id : GB2024067188
 ## Array
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0835-image-overlap](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0835-image-overlap) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Anjansai17/Leetcode-solutions/tree/master/1914-cyclically-rotating-a-grid) |
@@ -62,6 +63,7 @@ Leetcode id : GB2024067188
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0204-count-primes) |
@@ -110,4 +112,8 @@ Leetcode id : GB2024067188
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0204-count-primes) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
