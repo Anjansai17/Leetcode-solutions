@@ -43,6 +43,7 @@ Leetcode id : GB2024067188
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Anjansai17/Leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2315-count-asterisks](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2325-decode-the-message) |
 | [2451-odd-string-difference](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2451-odd-string-difference) |
@@ -123,6 +124,7 @@ Leetcode id : GB2024067188
 | [0225-implement-stack-using-queues](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Anjansai17/Leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Design
 |  |
 | ------- |
