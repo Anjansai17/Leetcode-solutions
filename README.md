@@ -8,6 +8,7 @@ Leetcode id : GB2024067188
 | [0075-sort-colors](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0835-image-overlap](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0835-image-overlap) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Anjansai17/Leetcode-solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2451-odd-string-difference](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2451-odd-string-difference) |
@@ -17,6 +18,7 @@ Leetcode id : GB2024067188
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0268-missing-number) |
 | [2679-sum-in-a-matrix](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [2785-sort-vowels-in-a-string](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -58,12 +60,14 @@ Leetcode id : GB2024067188
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0268-missing-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0268-missing-number) |
 | [2325-decode-the-message](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2325-decode-the-message) |
 | [2451-odd-string-difference](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2451-odd-string-difference) |
 | [2716-minimize-string-length](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2716-minimize-string-length) |
@@ -77,6 +81,7 @@ Leetcode id : GB2024067188
 | [0204-count-primes](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0342-power-of-four) |
 ## Bit Manipulation
@@ -84,6 +89,7 @@ Leetcode id : GB2024067188
 | ------- |
 | [0029-divide-two-integers](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
