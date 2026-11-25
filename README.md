@@ -43,6 +43,7 @@ Leetcode id : GB2024067188
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Anjansai17/Leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2315-count-asterisks](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2325-decode-the-message) |
@@ -124,6 +125,7 @@ Leetcode id : GB2024067188
 | [0225-implement-stack-using-queues](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Anjansai17/Leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Design
 |  |
@@ -136,4 +138,12 @@ Leetcode id : GB2024067188
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
