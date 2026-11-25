@@ -5,6 +5,7 @@ Leetcode id : GB2024067188
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0835-image-overlap](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0835-image-overlap) |
@@ -15,6 +16,7 @@ Leetcode id : GB2024067188
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [2679-sum-in-a-matrix](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [2785-sort-vowels-in-a-string](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -36,6 +38,7 @@ Leetcode id : GB2024067188
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -148,4 +151,12 @@ Leetcode id : GB2024067188
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
