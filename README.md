@@ -9,6 +9,7 @@ Leetcode id : GB2024067188
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0835-image-overlap](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Anjansai17/Leetcode-solutions/tree/master/1914-cyclically-rotating-a-grid) |
@@ -20,6 +21,7 @@ Leetcode id : GB2024067188
 | ------- |
 | [0075-sort-colors](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2679-sum-in-a-matrix](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [2785-sort-vowels-in-a-string](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -44,6 +46,7 @@ Leetcode id : GB2024067188
 | [0075-sort-colors](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 ## String
@@ -62,6 +65,7 @@ Leetcode id : GB2024067188
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0875-koko-eating-bananas](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -70,6 +74,7 @@ Leetcode id : GB2024067188
 | [0166-fraction-to-recurring-decimal](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2325-decode-the-message](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2325-decode-the-message) |
 | [2451-odd-string-difference](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2451-odd-string-difference) |
 | [2716-minimize-string-length](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2716-minimize-string-length) |
