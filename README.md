@@ -10,6 +10,7 @@ Leetcode id : GB2024067188
 | [0204-count-primes](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0835-image-overlap](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Anjansai17/Leetcode-solutions/tree/master/1914-cyclically-rotating-a-grid) |
@@ -67,6 +68,7 @@ Leetcode id : GB2024067188
 | [0268-missing-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
