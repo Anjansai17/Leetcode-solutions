@@ -88,6 +88,7 @@ Leetcode id : GB2024067188
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0190-reverse-bits](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0342-power-of-four) |
@@ -165,4 +166,8 @@ Leetcode id : GB2024067188
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
