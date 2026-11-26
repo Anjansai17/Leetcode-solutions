@@ -65,6 +65,7 @@ Leetcode id : GB2024067188
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0875-koko-eating-bananas](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjansai17/Leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -91,6 +92,7 @@ Leetcode id : GB2024067188
 | [0268-missing-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0342-power-of-four) |
+| [0441-arranging-coins](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0441-arranging-coins) |
 ## Bit Manipulation
 |  |
 | ------- |
