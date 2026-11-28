@@ -6,6 +6,7 @@ Leetcode id : GB2024067188
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0268-missing-number) |
@@ -181,6 +182,7 @@ Leetcode id : GB2024067188
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0190-reverse-bits) |
 ## Tree
 |  |
@@ -188,6 +190,7 @@ Leetcode id : GB2024067188
 | [0094-binary-tree-inorder-traversal](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -205,6 +208,7 @@ Leetcode id : GB2024067188
 | [0094-binary-tree-inorder-traversal](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -218,6 +222,7 @@ Leetcode id : GB2024067188
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
