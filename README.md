@@ -186,6 +186,7 @@ Leetcode id : GB2024067188
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -194,11 +195,13 @@ Leetcode id : GB2024067188
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -211,6 +214,7 @@ Leetcode id : GB2024067188
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anjansai17/Leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
